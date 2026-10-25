@@ -33,6 +33,8 @@ Test-set metrics for each run are printed in the "Model Building" step log of th
 
 ## Deploy on Streamlit Community Cloud
 
+Live app: https://tourism-package-prediction-vhr42ddpnk5pemwuryym52.streamlit.app
+
 1. Sign in at https://share.streamlit.io with the GitHub account that owns this repository.
 2. Click "Create app" and set:
    - Repository: `ravi-stiwari/tourism-package-prediction`
